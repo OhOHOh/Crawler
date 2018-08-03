@@ -1,0 +1,3 @@
+ThIS IS some text. written m AriaL that will be read by
+Tesseract Here are some symbols: l@#$%"&'()
+
